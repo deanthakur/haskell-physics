@@ -1,0 +1,2 @@
+to start GHCi, enter "ghci" in terminal or whatever command line you're using
+the GHCi is only really used for chapter 1, and after that it moves on to .hs file
