@@ -20,3 +20,11 @@ cosSq'' x = (square . cos) x
 
 cosSq'''::Double -> Double
 cosSq''' = square . cos
+
+
+
+--- 2.2
+yRock30 :: Double -> Double
+yRock30 t = t * 30
+
+vRock30 :: Double -> Double
